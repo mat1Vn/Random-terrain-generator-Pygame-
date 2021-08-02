@@ -7,9 +7,9 @@ class wd():
 		self.screen = screen
 		self.flip = flip
 		#load images
-		pedra = pygame.image.load("res/tijolo_pedra.png")
-		grama = pygame.image.load("res/grama.png")
-		terra = pygame.image.load("res/terra.png")
+		pedra = pygame.image.load("tijolo_pedra.png")
+		grama = pygame.image.load("grama.png")
+		terra = pygame.image.load("terra.png")
 		
 		row_count = 0
 		for row in data:
