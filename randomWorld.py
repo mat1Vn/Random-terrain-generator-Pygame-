@@ -10,9 +10,9 @@ fps=60
 
 data = []
 
-largura = 60
-altura = 6
-spriteSize = 40
+largura = 60 #Width of terrain
+altura = 6 #Height of terrarin
+spriteSize = 40 #Sprite Block Size
 
 def generate():
 	global data
