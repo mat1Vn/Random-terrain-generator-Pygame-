@@ -7,7 +7,6 @@ class wd():
 		self.screen = screen
 		self.flip = flip
 		#load images
-		pedra = pygame.image.load("tijolo_pedra.png")
 		grama = pygame.image.load("grama.png")
 		terra = pygame.image.load("terra.png")
 		
